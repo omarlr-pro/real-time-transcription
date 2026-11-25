@@ -41,7 +41,7 @@ microphone session was not authorized for this validation.
 
 ## Requirements
 
-- Python 3.10 or later.
+- Python 3.11 or later (required by the current Streamlit dependency).
 - Internet access for the Google recorded-audio recognition request and for
   browser speech services that require a network.
 - A recent Chrome or Edge browser for live transcription; browser support for

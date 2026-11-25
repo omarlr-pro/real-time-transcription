@@ -10,7 +10,7 @@ Thanks for considering a contribution. Issues and pull requests are welcome.
 
 ## Local setup
 
-Use Python 3.10 or later:
+Use Python 3.11 or later:
 
 ```powershell
 python -m venv .venv
