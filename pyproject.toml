@@ -1,0 +1,15 @@
+[project]
+name = "speech-language-detector"
+version = "0.1.0"
+description = "A Streamlit app for recorded and browser-based live speech transcription."
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"app.py" = ["E501"]
