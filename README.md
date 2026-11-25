@@ -211,7 +211,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and
   progressive result handling.
 - Evaluate a configurable streaming provider only if its credentials,
   pricing, privacy, and deployment requirements are explicit.
-- Add user-reviewed real application screenshots.
+- Capture genuine transcription-result screenshots during a permitted
+  microphone test.
 - Improve audio-provider choices and robust support for long recordings.
 
 ## License and maintainer
